@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 data/mp-query/processed/*
 data/mp-query/raw/*
+*.DS_store
 
 # C extensions
 *.so
