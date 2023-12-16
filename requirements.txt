@@ -1,0 +1,8 @@
+pymatgen
+mp_api
+e3nn-jax
+matscipy
+flax
+jraph
+optax
+seaborn == 0.13.0
